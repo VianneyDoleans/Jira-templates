@@ -6,7 +6,7 @@ h2. Environnement :
 - Autres informations potentiellement utiles :
 
 h2. Contexte
-- L’instance Teia utilisé (site web) : 
+- L’instance Teia utilisé (site web) :
 - Section de Teia rencontrant le problème :
 
 h2. Reproduire
@@ -17,13 +17,13 @@ h2. Reproduire
 h2. Comportement constaté
 - Expliquez ce qu'il se produit sur Teia
 
-h2. Comportement souhaité
+h2. Comportement attendu
 - Expliquez de manière claire et concise le comportement souhaité pour aider à comprendre le problème
 
 h2. Capture d'écran
 - Si vous pouvez ajouter une/des capture(s) d'écran lors des explications, ce serait un plus très appréciable.
-- Les captures d’écrans doivent 
+- Les captures d’écrans doivent
 
 
-h2. Informations supplémentaires
-Toutes informations supplémentaires pouvant aider à la résolution du problème sont bonnes à prendre 
+h2. Informations supplémentaires  
+Toutes informations supplémentaires pouvant aider à la résolution du problème sont bonnes à prendre
