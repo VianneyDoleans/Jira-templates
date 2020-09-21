@@ -1,0 +1,25 @@
+h2. Environnement :
+
+- Version du logiciel Teia :
+- Version du système Windows (Windows 10, Windows Server 2019, ...) :
+- Navigateur utilisé :
+- Autres informations potentiellement utiles :
+
+h2. Reproduire
+- Expliquez les étapes pour réaliser le comportement actuel de Teia
+
+h2. Comportement constaté
+- Expliquez ce qu'il se produit sur Teia
+
+h2. Le Problème
+- Expliquez pourquoi le comportement actuel de Teia ne correspond pas à votre besoin
+
+h2. Comportement souhaité
+- Expliquez de manière claire et concise vos attentes
+- Donnez le plus de détails concernant les attentes de cette nouvelle feature
+
+h2. Capture d'écran
+Si vous pouvez ajouter une/des capture(s) d'écran lors des explications, ce serait un plus très appréciable
+
+h2. Informations supplémentaires
+Toutes informations supplémentaires pouvant aider sont bonnes à prendre

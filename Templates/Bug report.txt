@@ -1,0 +1,29 @@
+h2. Environnement :
+
+- Version du logiciel Teia :
+- Version du système Windows (Windows 10, Windows Server 2019, ...) :
+- Navigateur utilisé :
+- Autres informations potentiellement utiles :
+
+h2. Contexte
+- L’instance Teia utilisé (site web) : 
+- Section de Teia rencontrant le problème :
+
+h2. Reproduire
+- Expliquez les étapes pour réaliser le bug
+- Si vous pouvez indiquer les credentials (nom d’utilisateur / mot de passe), ce serait un plus très appréciable
+  - (Si l’instance Teia n’est pas interne à Stereograph, veuillez remplir le champ)
+
+h2. Comportement constaté
+- Expliquez ce qu'il se produit sur Teia
+
+h2. Comportement souhaité
+- Expliquez de manière claire et concise le comportement souhaité pour aider à comprendre le problème
+
+h2. Capture d'écran
+- Si vous pouvez ajouter une/des capture(s) d'écran lors des explications, ce serait un plus très appréciable.
+- Les captures d’écrans doivent 
+
+
+h2. Informations supplémentaires
+Toutes informations supplémentaires pouvant aider à la résolution du problème sont bonnes à prendre 
